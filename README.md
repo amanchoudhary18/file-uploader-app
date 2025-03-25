@@ -49,7 +49,7 @@ npm run dev
 
 ### Features
 - <b>Folder structure:</b> Files are organized in a structured manner.
-- <b>Match preview:</b> Displays file previews before upload.
+- <b>File preview:</b> Displays file previews on the website.
 - <b>Supported file types:</b> .json, .jpg, .png, .txt.
 - <b>AWS Upload:</b> Files are uploaded to Amazon S3 storage.
 - <b>Storage limit:</b> Implemented restrictions on upload size.
