@@ -1,5 +1,5 @@
 <h2 align="center">
-    <img src="./frontend/public/favicon.ico" alt="Logo" width="60" height="60" />
+    <img src="./frontend/public/favicon.ico" alt="Logo" width="60" height="60" /> File Uploader
     <br />
 </h2>
 
