@@ -48,13 +48,13 @@ npm run dev
 ```
 
 ### Features
--<b>Folder structure:</b> Files are organized in a structured manner.
--<b>Match preview:</b> Displays file previews before upload.
--<b>Supported file types:</b> .json, .jpg, .png, .txt.
--<b>AWS Upload:</b> Files are uploaded to Amazon S3 storage.
--<b>Storage limit:</b> Implemented restrictions on upload size.
--<b>JWT-based authentication:</b> Secure login system using JSON Web Tokens.
--<b>Strctured code:</b> Clean and modular codebase for easy maintenance.
+- <b>Folder structure:</b> Files are organized in a structured manner.
+- <b>Match preview:</b> Displays file previews before upload.
+- <b>Supported file types:</b> .json, .jpg, .png, .txt.
+- <b>AWS Upload:</b> Files are uploaded to Amazon S3 storage.
+- <b>Storage limit:</b> Implemented restrictions on upload size.
+- <b>JWT-based authentication:</b> Secure login system using JSON Web Tokens.
+- <b>Strctured code:</b> Clean and modular codebase for easy maintenance.
 
 ## Tech Stack
 
