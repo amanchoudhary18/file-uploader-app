@@ -54,7 +54,7 @@ npm run dev
 - <b>AWS Upload:</b> Files are uploaded to Amazon S3 storage.
 - <b>Storage limit:</b> Implemented restrictions on upload size.
 - <b>JWT-based authentication:</b> Secure login system using JSON Web Tokens.
-- <b>Strctured code:</b> Clean and modular codebase for easy maintenance.
+- <b>Structured code:</b> Clean and modular codebase for easy maintenance.
 
 ## Tech Stack
 
